@@ -25,7 +25,7 @@ A personal study repository for *Professional C++* by Marc Gregoire.
 
 ## Progress
 
-- [ ] Repository setup
+- [X] Repository setup
 - [ ] Work through the book's chapters
 - [ ] Complete exercises and examples
 - [ ] Build independent projects
